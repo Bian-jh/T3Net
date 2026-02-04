@@ -1,7 +1,5 @@
 # A Unified Token Reliability Modeling Framework for Enhanced Tiny Object Detection
 
-**NOTE: Our paper has been accepted by ECCV 2024.**
-
 # Environment
 
 To use the AI-TOD evaluation metrics, you need to download aitodpycocotools. You can install it using the following command:
