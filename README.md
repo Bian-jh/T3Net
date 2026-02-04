@@ -1,9 +1,4 @@
-# T3-Net
-
-# Introduce
-  
-This is the official code for the paper Visible and Clear: Finding Tiny Objects in Difference Map.
-
+# A Unified Token Reliability Modeling Framework for Enhanced Tiny Object Detection
 
 **NOTE: Our paper has been accepted by ECCV 2024.**
 
