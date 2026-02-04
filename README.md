@@ -1,4 +1,4 @@
-# T3-nET
+# T3-Net
 
 # Introduce
   
